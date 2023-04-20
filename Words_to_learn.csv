@@ -1,0 +1,978 @@
+Unnamed: 0,Kanji,Onyomi,Kunyomi,Kanji Meaning,JLPT
+0,日,"nichi, jitsuニチ, ジツ","hi, -bi, -kaひ, -び, -か","day, sun, Japan, counter for days",N5
+1,一,ichiイチ,hito(tsu)ひと(つ),one,N5
+2,国,kokuコク,kuniくに,country,N5
+3,会,kaiカイ,a(u)あ(う),meeting; meet,N4
+4,人,"jin, ninジン、 ニン",hitoひと,person,N5
+5,年,nenネン,toshiとし,"year, counter for years",N5
+6,大,"dai, taiダイ、 タイ",oo(kii)おお(きい),"large, big",N5
+7,十,juuジュウ,"tou, toとお、 と","ten, 10",N5
+8,二,"ni, jiニ、 ジ",futa(tsu)ふた(つ),"two, 2",N5
+9,本,honホン,motoもと,"book, present, true, counter for long cylindrical things",N5
+10,中,chuuチュウ,"naka, uchi, ata(ru)なか、 うち、 あた(る)","in, inside, middle, mean, center",N5
+11,長,chouチョウ,"naga(i), osaなが(い)、 おさ","long, leader, superior, senior",N5
+12,出,"shutsu, suiシュツ、 スイ","de(ru), da(su), i(deru)で(る)、 だ(す)、 い(でる)","exit, leave, go out",N5
+13,三,sanサン,mi(tsu)み(つ),"three, 3",N5
+14,同,douドウ,onajiおな(じ),"same, agree, equal",N4
+15,時,jiジ,"toki, dokiとき、 -どき","time, hour",N5
+16,政,seiセイ,matsurigotoまつりごと,"politics, government",N3
+17,事,jiジ,kotoこと,"matter, thing, fact, business, reason, possibly",N4
+18,自,"ji, shiジ、 シ",mizuka(ra)みずか(ら),oneself,N4
+19,行,"kou, gyou, anコウ、 ギョウ、 アン","i(ku), yu(ku), okona(u)い(く)、 ゆ(く)、 おこな(う)","going, journey, carry out, line, row",N5
+20,社,shaシャ,yashiroやしろ,"company, firm, office, association, shrine",N4
+21,月,"getsu, gatsuゲツ、 ガツ",tsukiつき,"month, moon",N5
+22,分,"bun, fun, buブン、 フン、 ブ",wa(keru)わ(ける),"part, minute of time, understand",N5
+23,議,giギ,,"deliberation, consultation, debate",N3
+24,後,"go, kouゴ、 コウ","nochi, ushi(ro), atoのち、 うし(ろ)、 あと","behind, back, later",N5
+25,前,zenゼン,maeまえ,"in front, before",N5
+26,民,minミン,tamiたみ,"people, nation, subjects",N3
+27,生,"sei, shouセイ、 ショウ","i(kiru), u(mu), o(u), ha(eru), namaい(きる)、 う(む)、 お(う)、 は(える)、 なま","life, genuine, birth",N5
+28,連,renレン,"tsura(naru), tsu(reru)つら(なる)、つ(れる)","take along, lead, join, connect",N3
+29,五,goゴ,itsu(tsu)いつ(つ),"five, 5",N5
+30,発,"hatsu, hotsuハツ、 ホツ",,"departure, discharge, emit, start from",N4
+31,間,"kan, kenカン、 ケン","aida, ma, aiあいだ、 ま、 あい","interval, space",N5
+32,上,"jou, shou, shanジョウ、 ショウ、 シャン","ue, uwa, kami, a(geru), nobo(ru), tatematsu(ru)うえ、 うわ-、 かみ、 あ(げる)、 のぼ(る)、 たてまつ(る)","above, up",N5
+33,対,"tai, tsuiタイ、 ツイ",,"opposite, even, equal, versus, anti-, compare",N3
+34,部,buブ,,"section, bureau, dept, class, copy, part, portion",N3
+35,東,touトウ,higashiひがし,east,N5
+36,者,shaシャ,monoもの,"someone, person",N4
+37,党,touトウ,"nakama, muraなかま、 むら","party, faction, clique",N2
+38,地,"chi, jiチ、 ジ",,"ground, earth",N4
+39,合,"gou, ga, kaゴウ、 ガッ、 カッ","a(u), aiあ(う)、あい","fit, suit, join, 0.1",N3
+40,市,shiシ,ichiいち,"market, city, town",N3
+41,業,gyouギョウ,wazaわざ,"business, vocation, arts, performance",N4
+42,内,naiナイ,uchiうち,"inside, within, between, among, house, home",N3
+43,相,"sou, shouソウ、 ショウ",aiあい,"inter-, mutual, together, each other, minister of state",N3
+44,方,houホウ,kataかた,"direction, person, alternative",N4
+45,四,shiシ,"yo(tsu), yonよ(つ)、 よん","four, 4",N5
+46,定,"tei, jouテイ、 ジョウ",sada(meru)さだ(める),"determine, fix, establish, decide",N3
+47,今,"kon, kinコン、 キン",imaいま,now; the present,N5
+48,回,kaiカイ,mawa(su)まわ(す),"-times, round, revolve, counter",N3
+49,新,shinシン,"atara(shii), ara(ta)あたら(しい)、 あら(た)",new,N4
+50,場,jouジョウ,baば,"location, place",N4
+51,金,"kin, kon, gonキン、 コン、 ゴン","kane, kana, ganeかね、 かな-、 -がね",gold,N5
+52,員,inイン,,"employee, member, number, the one in charge",N4
+53,九,"kyuu, kuキュウ、 ク",kokono(tsu)ここの(つ),"nine, 9",N5
+54,入,nyuuニュウ,"i(ru), hai(ru)い(る)、はい(る)","enter, insert",N5
+55,選,senセン,era(bu)えら(ぶ),"elect, select, choose, prefer",N3
+56,立,ritsuリツ,ta(tsu)た(つ),"stand up, rise",N4
+57,開,kaiカイ,"hira(ku), a(keru)ひら(く)、 あ(ける)","open, unfold, unseal",N4
+58,力,"ryoku, rikiリョク、 リキ",chikaraちから,"power, strength, strong, strain, bear up, exert",N4
+59,学,gakuガク,mana(bu)まな(ぶ),"study, learning, science",N5
+60,問,monモン,to(u)と(う),"question, ask, problem",N4
+61,高,kouコウ,taka(i)たか(い),"tall, high, expensive",N5
+62,代,daiダイ,ka(wari)か(わり),"substitute, change, convert, replace, period",N4
+63,明,"mei, myouメイ、 ミョウ",aka(rui)あか(るい),"bright, light",N4
+64,実,jitsuジツ,"mi, mino(ru)み、みの(る)","reality, truth",N3
+65,円,enエン,maru(i)まる(い),"circle, yen, round",N5
+66,関,kanカン,"seki, kaka(waru)せき、 かか(わる)","connection, barrier, gateway, involve, concerning",N3
+67,決,ketsuケツ,ki(meru)き(める),"decide, fix, agree upon, appoint",N3
+68,子,"shi, su, tsuシ、 ス、 ツ","ko, neこ、 ね",child,N5
+69,動,douドウ,ugo(ku)うご(く),"move, motion, change",N4
+70,京,"kyou, kei, kinキョウ、 ケイ、 キン",miyakoみやこ,capital,N4
+71,全,zenゼン,"matta(ku), sube(te)まった(く)、 すべ(て)","whole, entire, all, complete, fulfill",N3
+72,目,"moku, bokuモク、 ボク",meめ,"eye, class, look, insight, experience",N4
+73,表,hyouヒョウ,"omote, arawa(su)おもて、 あらわ(す)","surface, table, chart, diagram",N3
+74,戦,senセン,"ikusa, tataka(u)いくさ、 たたか(う)","war, battle, match",N3
+75,経,keiケイ,"he(ru), ta(tsu)へ(る)、 た(つ)","longitude, pass thru, expire, warp",N3
+76,通,tsuuツウ,"too(ru), kayo(u)とお(る)、かよ(う)","traffic, pass through, avenue, commute",N4
+77,外,"gai, geガイ、 ゲ","soto, hoka, hazu-, to-そと、 ほか、 はず(す)、 と-",outside,N5
+78,最,saiサイ,motto(mo)もっと(も),"utmost, most, extreme",N3
+79,言,"gen, gonゲン、 ゴン","i(u), kotoい（う）、 こと","say, word",N4
+80,氏,shiシ,ujiうじ,"family name, surname, clan",N1
+81,現,genゲン,"arawa(reru), utsu(tsu)あらわ(れる)、 うつ(つ)","present, existing, actual",N3
+82,理,riリ,,"logic, arrangement, reason, justice, truth",N4
+83,調,chouチョウ,"shira(beru), tono(u)しら(べる)、ととの(う)","tune, tone, meter, prepare, investigate",N3
+84,体,taiタイ,karadaからだ,"body, substance, object, reality",N4
+85,化,"ka, keカ、 ケ","ba(keru), fu(keru)ば(ける)、 ふ(ける)","change, take the form of, influence, enchant, delude, -ization",N3
+86,田,denデン,taた,"rice field, rice paddy",N4
+87,当,touトウ,a(taru)あ(たる),"hit, right, appropriate",N3
+88,八,hachiハチ,"ya(tsu), youや(つ)、 よう","eight, 8",N5
+89,六,rokuロク,"mu(tsu), muiむ(つ)、 むい","six, 6",N5
+90,約,yakuヤク,tsuzu(maru)つづ(まる),"promise, approximately, shrink",N3
+91,主,shuシュ,"nushi, omoぬし、 おも","lord, chief, master, main thing, principal",N4
+92,題,daiダイ,,"topic, subject",N4
+93,下,"ka, geカ、 ゲ","shita, shimo, moto, sa(geru), kuda(ru), o(rosu)した、 しも、 もと、 さ(げる)、 くだ(る)、 お(ろす)","below, down, descend, give, low, inferior",N5
+94,首,shuシュ,kubiくび,neck,N3
+95,意,iイ,,"idea, mind, heart, taste, thought",N4
+96,法,houホウ,noriのり,"method, law, rule, principle, model, system",N3
+97,不,"fu, buフ、 ブ",,"negative, non-, bad",N4
+98,来,"rai, taiライ、 タイ","kuru, kitaru, ki, koく.る、 きた.る、 き、 こ","come, due, next, cause, become",N5
+99,作,"saku, saサク、 サ",tsuku(ru)つく(る),"make, production, prepare, build",N4
+100,性,"sei, shouセイ、 ショウ",,"sex, gender, nature",N3
+101,的,tekiテキ,,"mark, target, object, adjective ending",N3
+102,要,youヨウ,"i(ru), kanameい(る)、 かなめ","need, main point, essence, pivot",N3
+103,用,youヨウ,mochi(iru)もち(いる),"utilize, business, service, use, employ",N4
+104,制,seiセイ,,"system, law, rule",N3
+105,治,"ji, chiジ、チ","nasa(meru), nao(ru)おさ(める)、なお(る)","reign, cure, heal",N3
+106,度,"do, takuド、 タク","tabi, ta(i)たび、 た(い)","degrees, occurrence, time, counter for occurrences",N4
+107,務,muム,tsuto(meru)つと(める),"task, duties",N3
+108,強,"kyou, gouキョウ、 ゴウ",tsuyo(i)つよ(い),strong,N4
+109,気,"ki, keキ、 ケ",ikiいき,"spirit, mind, air, atmosphere, mood",N5
+110,小,shouショウ,"chii(sai), ko-, o-, sa-ちい(さい)、 こ-、 お-、 さ-","little, small",N5
+111,七,shichiシチ,"nana(tsu), nanoなな(つ)、 なの","seven, 7",N5
+112,成,"sei, jouセイ、 ジョウ",na(ru)な(る),"turn into, become, get, grow, elapse",N3
+113,期,"ki, goキ、 ゴ",,"period, time, date, term",N3
+114,公,kouコウ,,"public, prince, official, governmental",N4
+115,持,jiジ,mo(tsu)も(つ),"hold, have",N4
+116,野,yaヤ,noの,"plains, field, rustic, civilian life",N4
+118,取,shuシュ,to(ru)と(る),"take, fetch",N3
+119,都,"to, tsuト、ツ",miyakoみやこ,"metropolis, capital",N3
+120,和,"wa, oワ、オ","yawa(ragu), nago(mu)やわ(らぐ)、なご(む)","harmony, Japanese style, peace",N3
+121,統,touトウ,su(beru)す(べる),"ruling, governing",N1
+122,以,iイ,mo(tte)もっ(て),"by means of, because, in view of, compared with",N4
+123,機,kiキ,hataはた,"machine, airplane, opportunity",N3
+124,平,"hei, byouヘイ、ビョウ","tai(ra), hiraたい(ら)、ひら","even, flat, peace",N3
+125,総,souソウ,"sube(te), fusaすべ(て)、 ふさ","general, whole, all",N2
+126,加,kaカ,kuwa(eru)くわ(える),"add, addition, increase, join",N3
+127,山,"san, senサン、 セン",yamaやま,mountain,N5
+128,思,shiシ,omo(u)おも(う),think,N4
+129,家,kaカ,"ie, ya, uchiいえ、 や、 うち","house, home, family, professional, expert",N4
+130,話,waワ,"hana(su), hanashiはな(す)、 はなし","tale, talk",N5
+131,世,"sei, seセイ、 セ",yoよ,"generation, world, society, public",N4
+132,受,juジュ,u(keru)う(ける),"accept, undergo, answer (phone), take",N3
+133,区,kuク,,"ward, district",N2
+135,多,taタ,oo(i)おお(い),"many, frequent, much",N4
+136,県,kenケン,ka(keru)か(ける),prefecture,N2
+137,続,zokuゾク,tsuzukuつづ(く),"continue, series, sequel",N3
+138,進,shinシン,susu(mu)すす(む),"advance, proceed",N3
+139,正,"sei, shouセイ、 ショウ","tada(shii), masa(ni)ただ(しい)、 まさ(に)","correct, justice, righteous",N4
+140,安,anアン,yasu(i)やす(い),"safe, peaceful, cheap",N4
+141,設,setsuセツ,mou(keru)もう(ける),"establishment, provision",N2
+142,保,"ho, houホ、ホウ",tamo(tsu)たも(つ),"protect, guarantee, keep",N2
+143,改,kaiカイ,arata(meru)あらた(める),"reformation, change, modify",N2
+144,数,suuスウ,"kazu, kazo(eru)かず、 かぞ(える)","number, strength, fate, law, figures",N3
+145,記,kiキ,shiru(su)しる(す),"scribe, account, narrative",N3
+146,院,inイン,,"institution, temple, mansion, school",N4
+147,女,joジョ,"onnna, meおんな、 め","woman, female",N5
+148,初,shoショ,"haji(me), hatsuはじ(め)、はつ","first time, beginning",N3
+149,北,hokuホク,kitaきた,north,N5
+150,午,goゴ,umaうま,"noon, sign of the horse",N5
+151,指,shiシ,"yubi, sa(su)ゆび、さ(す)","finger, point to, indicate",N3
+152,権,kenケン,,"authority, power, rights",N3
+153,心,shinシン,kokoroこころ,"heart, mind, spirit",N4
+154,界,kaiカイ,,"world, boundary",N4
+155,支,shiシ,sasa(eru)ささ(える),"branch, support, sustain",N3
+156,第,daiダイ,,"No., number",N2
+157,結,ketsuケツ,"musu(bu), yu(u)むす(ぶ)、ゆ(う)","tie, bind, contract",N2
+158,百,"hyaku, byakuヒャク、 ビャク",momoもも,hundred,N5
+159,派,haハ,,"faction, group, party",N2
+160,点,tenテン,tsu(keru)つ(ける),"spot, point, mark",N3
+161,教,kyouキョウ,"oshi(eru), oso(waru)おし(える)、 おそ(わる)","teach, faith, doctrine",N4
+162,報,houホウ,mukku(iru)むく(いる),"report, news, reward",N3
+163,済,"sai, seiサイ、セイ",su(mu)す(む),"settle, relieve, finish",N3
+164,書,shoショ,kakuか(く),write,N5
+165,府,fuフ,,"borough, urban prefecture, govt office",N2
+166,活,katsuカツ,,living,N3
+167,原,genゲン,haraはら,"original, primitive, field",N3
+168,先,senセン,"saki, ma(zu)さき、 ま(ず)","before, ahead, previous, future, precedence",N5
+169,共,kyouキョウ,tomoとも,"together, both, neither",N3
+170,得,tokuトク,e(ru)え(る),"gain, get, find, earn, acquire, can, may, able to, profit",N3
+171,解,"kai, geカイ、ゲ","to(ku), hodo(ku)と(く)、ほど(く)","unravel, explanation",N3
+172,名,"mei, myouメイ、 ミョウ",naな,"name, noted, distinguished, reputation",N5
+173,交,kouコウ,"maji(waru), ma(zeru), ka(wasu)まじ(わる)、 ま(ぜる)、 か(わす)","mingle, mixing, association, coming & going",N3
+174,資,shiシ,,"assets, resources, capital, funds, data, be conducive to",N3
+175,,,,,
+176,予,"yo, shaヨ、 シャ",arakaji(me)あらかじ(め),"beforehand, previous, myself, I",N3
+177,川,senセン,kawaかわ,"river, stream",N5
+178,向,kouコウ,"mu(ku), muka(i)む(く)、むか(い)","facing, beyond",N3
+179,際,saiサイ,kiwaきわ,"occasion, time",N3
+180,査,saサ,,investigate,N2
+181,勝,shouショウ,"ka(tsu), masa(ru)か(つ)、 まさ(る)","victory, win",N3
+182,面,menメン,"omo, omote, tsuraおも、おもて、つら","mask, face, features, surface",N3
+184,告,kokuコク,tsu(geru)つ(げる),"revelation, inform",N3
+185,軍,gunグン,ikusaいくさ,"army, force, troops",N2
+186,文,"bun, monブン、 モン",fumiふみ,"sentence, literature, style, art",N4
+187,反,hanハン,so(ru)そ(る),anti-,N3
+188,元,"gen, ganゲン、 ガン",motoもと,"beginning, former time, origin",N4
+189,重,"juu, chouジュウ、 チョウ","omo(i), kasa(neru)おも(い)、 かさ(ねる)","heavy, important, esteem, respect",N4
+190,近,kinキン,chika(i)ちか(い),"near, early, akin, tantamount",N4
+191,千,senセン,chiち,thousand,N5
+192,考,kouコウ,kanga(eru)かんが(える),"consider, think over",N4
+193,判,hanハン,,"judgement, signature",N3
+194,認,ninニン,"mito(meru), shitata(meru)みと(める)、したた(める)","acknowledge, witness, recognize",N3
+195,画,"ga, kakuガ、 カク",kaku(suru)かく(する),"brush-stroke, picture",N4
+196,海,kaiカイ,umiうみ,"sea, ocean",N4
+197,参,sanサン,mai(ru)まい(る),"going, coming, participate",N3
+198,売,baiバイ,u(ru)う(る),sell,N4
+199,利,riリ,ki(ku)き(く),"profit, advantage, benefit",N3
+200,組,soソ,"ku(mu), kumiく(む)、くみ","association, assemble, unite",N3
+201,知,chiチ,shi(ru)し(る),"know, wisdom",N4
+202,案,anアン,tsukueつくえ,"plan, suggestion, draft",N2
+203,道,douドウ,michiみち,"road-way, street, district, journey, course",N4
+204,信,shinシン,,"faith, truth, trust",N3
+205,策,sakuサク,,"scheme, plan, policy",N2
+206,,,,,
+207,集,shuuシュウ,atsu(meru)あつ(める),"gather, meet",N4
+208,在,zaiザイ,a(ru)あ(る),"exist, outskirts",N3
+209,件,kenケン,kudanくだん,"affair, case, matter",N3
+210,団,"dan, tonダン、トン","katamari, maru(i)かたまり、 まる(い)","group, association",N2
+211,別,betsuベツ,"waka(reru), wa(keru)わか(れる)、 わ(ける)","separate, branch off, diverge",N4
+212,物,"butsu, motsuブツ、 モツ",monoもの,"thing, object, matter",N4
+213,側,sokuソク,"gawa, sobaがわ、そば","side, lean, oppose",N3
+214,任,ninニン,maka(seru)まか(せる),"responsibility, duty",N3
+215,引,inイン,hi(ku)ひ(く),"pull, tug, jerk",N3
+216,使,shiシ,tsuka(u)つか(う),"use, order, messenger, ambassador",N4
+217,求,kyuuキュウ,moto(meru)もと(める),"request, want, demand",N3
+218,所,shoショ,tokoroところ,"place, extent",N3
+219,次,"ji, shiジ、シ","tsu(gu), tsugiつ(ぐ)、つぎ","next, order",N3
+220,水,suiスイ,mizuみず,water,N5
+221,半,hanハン,naka(ba)なか(ば),"half, middle, odd number, semi-",N5
+222,昨,sakuサク,,"yesterday, previous",N3
+223,論,ronロン,agetsura(u)あげつら(う),"argument, discourse",N3
+224,計,keiケイ,haka(ru)はか(る),"plot, plan, scheme, measure",N4
+225,死,shiシ,shi(nu)し(ぬ),"death, die",N4
+226,官,kanカン,,"bureaucrat, the government, organ",N3
+227,増,zouゾウ,"ma(su), fu(eru)ま(す)、 ふ(える)","increase, add",N3
+228,係,keiケイ,"kaka(ru), kakariかか(る)、かかり","person in charge, connection",N3
+229,感,kanカン,,"emotion, feeling, sensation",N3
+230,特,tokuトク,,special,N4
+231,情,"jou, seiジョウ、セイ",nasa(ke)なさ(け),"feelings, emotion, passion",N3
+232,投,touトウ,na(geru)な(げる),"throw, discard",N3
+233,示,"ji, shiジ、シ",shime(su)しめ(す),"show, indicate, display",N3
+234,変,henヘン,ka(waru)か(わる),"unusual, change, strange",N3
+235,打,daダ,"u(tsu), bu(tsu)う(つ)、ぶ(つ)","strike, hit, knock",N3
+236,,,,,
+237,基,kiキ,"moto, motoiもと、 もとい","fundamentals, counter for machines, foundation",N1
+238,私,shiシ,"watakushi, watashiわたくし、 わたし","private, I, me",N4
+239,各,kakuカク,onoonoおのおの,each; every; either,N2
+240,始,shiシ,haji(meru)はじ(める),"commence, begin",N4
+241,島,touトウ,shimaしま,island,N2
+242,直,"choku, jikiチョク、 ジキ","tada(chini), su(gu)ただ(ちに)、 す(ぐ)","straightaway, honesty, frankness, fix, repair",N3
+243,両,ryouリョウ,,both,N3
+244,朝,chouチョウ,asaあさ,morning,N4
+245,,,,,
+246,革,kakuカク,kawaかわ,leather; skin; reform; become serious,N2
+247,価,kaカ,ataiあたい,"value, price",N1
+248,式,shikiシキ,,"style, ceremony",N3
+249,確,kakuカク,tashi(ka)たし(か),"assurance, firm, confirm",N3
+250,村,sonソン,muraむら,village; town,N2
+251,提,teiテイ,sa(geru)さ(げる),"propose, take along, carry in hand",N1
+252,運,unウン,hako(bu)はこ(ぶ),"carry, luck, destiny, fate, transport",N4
+253,終,shuuシュウ,o(waru)お(わる),"end, finish",N4
+254,挙,kyoキョ,"a(geru), kozo(ru)あ(げる)、 こぞ(る)","raise, plan, project, behavior, actions",N1
+255,果,kaカ,ha(tasu)は(たす),"fruit, reward, carry out, achieve, complete",N3
+256,西,"sei, saiセイ、 サイ",nishiにし,west,N5
+258,減,genゲン,he(ru)へ(る),dwindle; decrease; reduce,N2
+259,台,"dai, taiダイ、 タイ",utenaうてな,"pedestal, a stand, counter for machines and vehicles",N4
+260,広,kouコウ,hiro(i)ひろ(い),"wide, broad, spacious",N4
+261,容,youヨウ,,"contain, form",N3
+262,必,hitsuヒツ,kanara(zu)かなら(ず),"invariably, certain, inevitable",N3
+263,応,ouオウ,kota(eru)こた(える),"apply, answer, yes, OK, reply, accept",N1
+264,演,enエン,,"performance, act, play, render, stage",N3
+265,電,denデン,,electricity; electric powered,N5
+266,歳,"sai, seiサイ、セイ",,"age, year-end",N3
+267,,,,,
+268,住,"juu, chuuジュウ、 チュウ",su(mu)す(む),"dwell, reside, live, inhabit",N4
+269,争,souソウ,araso(u)あらそ(う),"contend, dispute, argue",N3
+270,談,danダン,,"discuss, talk",N3
+271,能,nouノウ,ata(u)あた(う),"ability, talent, skill, capacity",N3
+272,無,"mu, buム、 ブ",na(i)な(い),"nothingness, none, ain't, nothing, nil, not",N4
+273,再,"sai, saサイ、 サ",futata(bi)ふたた(び),"again, twice, second time",N2
+274,位,iイ,"kurai, guraiくらい、 ぐらい","rank, grade, about",N3
+275,置,chiチ,o(ku)お(く),"placement, put, set, deposit, leave behind",N3
+276,企,kiキ,"kuwada(teru), takura(mu)くわだ(てる)、 たくら(む)","undertake, scheme, design, attempt, plan",N1
+277,真,shinシン,"ma, makotoま、 まこと","true, reality, Buddhist sect",N4
+278,流,"ryuu, ruリュウ、ル",naga(reru)なが(れる),"current, flow",N3
+279,格,"kaku, kou, kyakuカク、コウ、キャク",,"status, rank, capacity",N3
+280,有,"yuu, uユウ、 ウ",a(ru)あ(る),"possess, have, exist, happen",N4
+281,疑,giギ,utaga(u)うたが(う),"doubt, distrust",N3
+282,口,kouコウ,kuchiくち,mouth,N4
+283,過,kaカ,"su(giru), yogi(ru)す(ぎる)、よぎ(る)","overdo, exceed, go beyond",N3
+284,局,kyokuキョク,,"bureau, board, office",N3
+285,少,shouショウ,"suku(nai), suko(shi)すく(ない)、 すこ(し)","few, little",N4
+286,放,houホウ,"hana(su), hou(ru)はな(す)、ほう(る)","set free, release",N3
+287,税,zeiゼイ,,tax; duty,N2
+288,検,kenケン,shira(beru)しら(べる),"examination, investigate",N1
+289,藤,touトウ,fujiふじ,wisteria,N1
+290,町,chouチョウ,machiまち,"town, village, block, street",N4
+291,常,jouジョウ,tsuneつね,"usual, ordinary, normal",N3
+292,校,kouコウ,,"school, exam",N5
+293,料,ryouリョウ,,"fee, materials",N4
+294,沢,takuタク,sawaさわ,"swamp, marsh, brilliance, grace",N1
+295,,,,,
+296,裁,saiサイ,"ta(tsu), saba(ku)た(つ)、 さば(く)","tailor, judge, decision, cut out (pattern)",N1
+297,状,jouジョウ,,"conditions, form, appearance",N3
+298,工,"kou, ku, guコウ、 ク、 グ",,"craft, construction",N4
+299,,,,,
+300,建,"ken, konケン、 コン",ta(teru)た(てる),build,N4
+301,語,goゴ,kata(ru)かた(る),"word, speech, language",N5
+302,球,kyuuキュウ,tamaたま,"ball, sphere",N3
+303,営,eiエイ,itona(mu)いとな(む),occupation; camp; perform; build; conduct (business),N2
+304,空,kuuクウ,"sora, kara, a(ku), su(ku), muna(shii)そら、 から、 あ(く)、 す(く)、 むな(しい)","empty, sky, void, vacant, vacuum",N4
+305,職,shokuショク,,"post, employment, work",N3
+306,証,shouショウ,akashiあかし,"evidence, proof, certificate",N1
+307,土,"do, toド、 ト",tsuchiつち,"soil, earth, ground",N5
+308,与,yoヨ,"ata(eru), azuka(ru)あた(える)、 あずか(る)","give, award",N3
+309,急,kyuuキュウ,iso(gu)いそ(ぐ),"hurry, emergency, sudden, steep",N4
+310,止,shiシ,"to(maru), todo(maru), ya(meru), yo(su)と(まる)、 とど(まる)、 や(める)、 よ(す)","stop, halt",N4
+311,送,souソウ,oku(ru)おく(る),"escort, send",N4
+312,援,enエン,,"abet, help, save",N1
+313,供,"kyou, ku, kuuキョウ、ク、クウ","sona(eru), tomoそな(える)、とも","submit, offer, present, accompany",N3
+314,可,kaカ,be(ki)べ(き),"can, passable, mustn't, should not",N1
+315,役,"yaku, ekiヤク、エキ",,"duty, service, role",N3
+316,構,kouコウ,kama(u)かま(う),"posture, build, pretend",N3
+317,木,"boku, mokuボク、 モク","ki, koき、 こ-","tree, wood",N5
+318,割,katsuカツ,"wa(ru), wariわ(る)、わり","proportion, divide, cut, separate",N3
+319,聞,"bun, monブン、 モン",ki(ku)き(く),to hear; to listen; to ask,N5
+320,身,shinシン,miみ,"somebody, person",N3
+321,費,hiヒ,tsui(yasu)つい(やす),"expense, consume",N3
+322,付,fuフ,tsu(keru)つ(ける),"adhere, attach, refer to, append",N3
+323,施,"shi, seシ、 セ",hodoko(su)ほどこ(す),"give, bestow, perform, alms",N1
+324,切,"setsu, saiセツ、 サイ",ki(ru)き(る),"cut, cutoff, be sharp",N4
+325,由,"yu, yuuユ、ユウ","yoshi, yo(ru)よし、よ(る)","wherefore, a reason",N3
+326,説,"setsu, zeiセツ、 ゼイ",to(ku)と(く),"opinion, theory, explanation",N3
+327,転,tenテン,koro(garu)ころ(がる),"revolve, turn around, change",N4
+328,食,"shoku, jikiショク、 ジキ","k(u), ta(beru), ha(mu)く(う)、 た(べる)、 は(む)","eat, food",N5
+329,比,hiヒ,kura(beru)くら(べる),compare; race; ratio,N2
+330,,,,,
+331,難,nanナン,"kata(i), muzuka(shii), niku(i)かた(い)、むずか(しい)、 にく(い)","difficult, trouble, accident",N3
+332,防,bouボウ,fuse(gu)ふせ(ぐ),ward off; defend; protect; resist,N2
+333,補,hoホ,ogina(u)おぎな(う),supplement; supply; offset; compensate,N2
+334,車,shaシャ,kurumaくるま,"car, wheel",N5
+335,優,"yuu, uユウ、ウ","yasa(shii), sugu(reru)やさ(しい)、すぐ(れる)","tenderness, kind, actor",N3
+336,夫,"fu, fuuフ、フウ",ottoおっと,"husband, man",N3
+337,研,kenケン,to(gu)と(ぐ),"polish, study of, sharpen",N4
+338,収,shuuシュウ,osa(meru)おさ(める),"income, obtain, reap, pay, supply, store",N3
+339,断,danダン,"ta(tsu), kotowa(ru)た(つ)、 ことわ(る)","severance, decline, refuse, apologize",N3
+340,井,"sei, shouセイ、 ショウ",iい,"well, well crib, town, community",N1
+341,何,kaカ,"nani, nanなに、 なん",what,N5
+342,南,"nan, naナン、 ナ",minamiみなみ,south,N5
+343,石,"seki, shaku, kokuセキ、シャク、コク",ishiいし,stone,N3
+344,足,sokuソク,"ashi, ta(riru)あし、 た(りる)","leg, foot, be sufficient",N4
+345,違,iイ,"chiga(u), taga(u)ちが(う)、たが(う)","difference, differ",N3
+346,消,shouショウ,"ki(eru), ke(su)き(える)、け(す)","extinguish, turn off",N3
+347,境,kyouキョウ,sakaiさかい,"boundary, border, region",N2
+348,神,"shin, jinシン、 ジン",kamiかみ,"gods, mind, soul",N3
+349,番,banバン,tsugaiつが(い),"turn, number in a series",N3
+350,規,kiキ,,"standard, measure",N3
+351,,,,,
+352,術,jutsuジュツ,subeすべ,"art, technique, skill, means, trick",N3
+353,護,goゴ,mamo(ru)まも(る),"safeguard, protect",N1
+354,展,tenテン,,"unfold, expand",N1
+355,態,taiタイ,waza(to)わざ(と),"attitude, condition",N1
+356,導,douドウ,michibi(ku)みちび(く),guidance; leading; conduct; usher,N2
+357,鮮,senセン,aza(yaka)あざ(やか),"fresh, vivid, clear",N1
+358,備,biビ,sona(eru)そな(える),"equip, provision, preparation",N3
+359,宅,takuタク,,"home, house, residence",N3
+360,害,gaiガイ,,"harm, injury",N3
+361,配,haiハイ,kuba(ru)くば(る),"distribute, spouse",N3
+362,,,,,
+363,副,fukuフク,,vice-; assistant; aide; duplicate; copy,N2
+364,算,sanサン,soroそろ,calculate; divining; number; probability,N2
+365,視,shiシ,mi(ru)み(る),"inspection, regard as, see, look at",N1
+366,条,jouジョウ,,"article, clause, counter for articles",N1
+367,幹,kanカン,mikiみき,"tree trunk, main part, talent, capability",N1
+368,独,dokuドク,hito(ri)ひと(り),"single, alone, spontaneously",N1
+369,警,keiケイ,,"admonish, commandment",N3
+370,宮,"kyuu, guu, kuキュウ、 グウ、 ク",miyaみや,"Shinto shrine, constellations, palace, princess",N1
+371,究,kyuuキュウ,,"research, study",N4
+372,育,ikuイク,"soda(tsu), haguku(mu)そだ(つ)、はぐく(む)","bring up, grow up, raise",N3
+373,席,sekiセキ,mushiroむしろ,seat,N3
+374,輸,"yu, shuユ、 シュ",,"transport, send, be inferior",N2
+375,訪,houホウ,"toozu(reru), tazu(neru)おとず(れる)、たず(ねる)","call on, visit",N3
+376,楽,"gaku, rakuガク、 ラク",tano(shii)たの(しい),"music, comfort, ease",N4
+377,起,kiキ,"o(kiru), oko(su)お(きる)、 おこ(す)","wake up, get up; rouse",N4
+378,万,"man, banマン、 バン",,"ten thousand, 10,000",N5
+379,着,chakuチャク,"ki(ru), tsu(ku)き(る)、つ(く)","arrive, wear, counter for suits of clothing",N4
+380,乗,"jou, shouジョウ、 ショウ",no(ru)の(る),ride,N3
+381,店,tenテン,miseみせ,"store, shop",N4
+382,述,jutsuジュツ,no(beru)の(べる),mention; state; speak,N2
+383,残,zanザン,noko(ru)のこ(る),"remainder, balance",N3
+384,想,"sou, soソウ、ソ",omo(u)おも(う),"concept, think, idea",N3
+385,線,senセン,sujiすじ,line; track,N2
+386,率,"sotsu, ritsuソツ、 リツ",hiki(iru)ひき(いる),"ratio, rate, proportion, %, factor, lead",N1
+387,病,byouビョウ,ya(mu)や(む),"ill, sick",N4
+388,農,nouノウ,,agriculture; farmers,N2
+389,州,shuuシュウ,suす,state; province,N2
+390,武,"bu, muブ、 ム",take(shi)たけ(し),warrior; military; chivalry; arms,N2
+391,声,"sei, shouセイ、ショウ",koeこえ,voice,N3
+392,質,"shitsu, shichiシツ、 シチ","tachi, tada(su)たち、 ただ(す)","substance, quality, matter, temperament",N4
+393,,,,,
+394,念,nenネン,,"wish, sense, idea, thought, feeling, desire",N3
+395,待,taiタイ,ma(tsu)ま(つ),"wait, depend on",N4
+396,試,shiシ,"kokoro(miru), tame(su)こころ(みる)、 ため(す)","test, try, attempt, experiment",N4
+397,族,zokuゾク,,"tribe, family",N4
+398,象,"shou, zouショウ、 ゾウ",katado(ru)かたど(る),elephant; pattern after; image; shape,N2
+399,銀,ginギン,,silver,N4
+400,域,ikiイキ,,range; region; limits; stage; level,N2
+401,,,,,
+402,助,joジョ,tasu(keru)たす(ける),"help, rescue, assist",N3
+403,労,rouロウ,"rou(suru), itawa(ru), negira(u)ろう(する)、いたわ(る)、ねぎら(う)","labor, thank for",N3
+404,例,reiレイ,tato(eba)たと(えば),example,N3
+405,衛,eiエイ,,"defense, protection",N1
+406,然,"zen, nenゼン、ネン","shika, saしか、さ","sort of thing, if so",N3
+407,早,"sou, saソウ、 サッ",haya(i)はや(い),"early, fast",N4
+408,張,chouチョウ,ha(ru)は(る),"lengthen, counter for bows & stringed instruments, stretch, spread, put up (tent)",N1
+409,映,eiエイ,"utsu(ru), ha(eru)うつ(る)、 は(える)","reflect, reflection, projection",N4
+410,限,genゲン,kagi(ru)かぎ(る),"limit, restrict",N3
+411,親,shinシン,"oya, shita(shii)おや、 した(しい)","parent, intimacy, relative, familiarity",N4
+412,額,gakuガク,hitaiひたい,forehead; tablet; framed picture; sum; amount; volume,N2
+413,監,kanカン,,"oversee, official, govt office, rule, administer",N1
+414,環,kanカン,waわ,"ring, circle, link, wheel",N1
+415,験,kenケン,,"verification, effect, testing",N4
+416,追,tsuiツイ,o(u)お(う),"chase, drive away",N3
+417,審,shinシン,,"hearing, judge, trial",N1
+418,商,shouショウ,akina(u)あきな(う),deal; selling; merchant,N3
+419,葉,youヨウ,haは,"leaf, plane, needle, blade, counter for flat things",N3
+420,義,giギ,,"righteousness, justice, morality, honor, loyalty, meaning",N1
+421,伝,denデン,tsuta(waru)つた(わる),"transmit, go along, walk along, follow, report, communicate, legend, tradition",N3
+422,働,douドウ,hatara(ku)はたら(く),work,N3
+423,形,"kei, gyouケイ、ギョウ","kata, katachi, nariかた、かたち、なり","shape, form, style",N3
+424,景,"kei, keケイ、ケ",,"scenery, view",N3
+425,,,,,
+426,落,rakuラク,o(chiru)お(ちる),"fall, drop",N3
+427,欧,ouオウ,"uta(u), ha(ku)うた(う)、 は(く)",Europe,N2
+428,担,tanタン,"katsu(gu), nina(u)かつ(ぐ)、 にな(う)",shouldering; carry; raise; bear,N2
+429,好,kouコウ,"kono(mu), su(ku)この(む)、 す(く)","fond, pleasing, like something",N3
+430,退,taiタイ,"shirizo(ku), hi(ku), no(keru), do(ku)しりぞ(く)、 ひ(く)、 の(ける)、 ど(く)","retreat, withdraw, retire, resign, repel, expel, reject",N3
+431,準,junジュン,"jun(jiru), nazora(eru)じゅん(じる)、 なぞら(える)",semi-; correspond to; imitate,N2
+432,賞,shouショウ,ho(meru)ほ(める),prize; reward; praise,N2
+433,訴,soソ,utta(eru)うった(える),"accusation, sue, complain of pain, appeal to",N1
+434,辺,henヘン,"ata(ri), hoto(ri)あた(り)、 ほと(り)",environs; boundary; border; vicinity,N2
+435,造,zouゾウ,tsuku(ru)つく(る),create; make; structure; physique,N2
+436,英,eiエイ,,"England, English, hero, outstanding",N4
+437,被,hiヒ,"koumu(ru), kabu(ru)こうむ(る)、 かぶ(る)",incur; cover; shelter; wear; put on,N2
+438,頭,"tou, zu, toトウ、ズ、ト","atama, kashiraあたま、かしら",head,N3
+439,技,giギ,wazaわざ,skill; art; craft; ability; vocation; arts,N2
+440,毎,maiマイ,goto(ni)ごと(に),every,N5
+441,医,iイ,,"doctor, medicine",N4
+442,復,fukuフク,mataまた,"restore, return to, revert",N2
+443,仕,shiシ,,"attend, doing, official, serve",N4
+444,去,"kyo, koキョ、 コ",sa(ru)さ(る),"gone, past, quit, leave, elapse, eliminate",N4
+445,味,miミ,ajiあじ,"flavor, taste",N4
+446,負,fuフ,"ma(keru), o(u)ま(ける)、 お(う)","defeat, negative, minus, assume a responsibility",N3
+447,渡,toト,wata(ru)わた(る),"transit, ferry, cross",N3
+448,失,shitsuシツ,"ushina(u), u(seru)うしな(う)、 う(せる)","lose, error, fault, disadvantage, loss",N3
+449,移,iイ,utsu(ru)うつ(る),"shift, move, change",N2
+450,差,saサ,sa(su)さ(す),"distinction, difference, variation",N3
+451,個,koコ,,individual; counter for articles,N2
+452,門,monモン,"kado, toかど、 と",gate,N2
+453,写,shaシャ,utsuruうつ(る),"copy, be photographed, describe",N4
+454,課,kaカ,,"chapter, lesson, section, department",N2
+455,,,,,
+456,,,,,
+457,末,matsuマツ,sueすえ,"end, close, tip",N3
+458,守,"shu, suシュ、ス","mamo(ru), moriまも(る)、もり","guard, protect, obey",N3
+459,若,jakuジャク,"waka(i), mo(shi)わか(い)、も(し)",young,N3
+460,脳,nouノウ,nouzuruのうずる,brain; memory,N2
+461,極,"kyoku, gokuキョク、 ゴク",kiwa(meru)きわ(める),poles; settlement; conclusion; end,N2
+462,種,shuシュ,"tane, -gusaたね、-ぐさ","species, kind, class, seed",N3
+463,美,"bi, miビ、 ミ",utsukushiiうつく(しい),"beauty, beautiful",N3
+464,命,"mei, myouメイ、ミョウ",inochiいのち,"fate, command",N3
+465,含,ganガン,fuku(mu)ふく(む),contain; include,N2
+466,福,fukuフク,,"blessing, fortune, luck, wealth",N3
+467,蔵,zouゾウ,kuraくら,storehouse; hide; own; have; possess,N2
+468,量,ryouリョウ,haka(ru)はか(る),quantity; measure; weight; amount,N2
+469,望,bouボウ,"nozo(mu), mochiのぞ(む)、 もち","ambition, full moon, hope, desire, aspire to, expect",N3
+470,非,hiヒ,ara(zu)あら(ず),"un-, mistake, negative",N3
+472,察,satsuサツ,,"guess, presume, judge",N3
+473,段,danダン,,"grade, steps, stairs",N3
+474,横,ouオウ,yokoよこ,"sideways, side",N3
+475,型,keiケイ,kataかた,type; model,N2
+476,白,"haku, byakuハク、 ビャク",shiro(i)しろ(い),white,N5
+477,深,shinシン,fuka(i)ふか(い),"deep, heighten",N3
+478,字,jiジ,,"character, letter, word",N4
+479,答,touトウ,kota(eru)こた(える),"solution, answer",N4
+480,夜,yaヤ,"yo, yoruよ、 よる","night, evening",N4
+481,製,seiセイ,,"made in..., manufacture",N1
+482,況,kyouキョウ,mashi(te)まし(て),condition; situation,N2
+483,音,onオン,"oto, neおと、 ね","sound, noise",N4
+484,申,shinシン,"mou(su), saruもう(す)、さる",have the honor to,N3
+485,様,youヨウ,"sama, sanさま、さん","manner, situation, polite suffix",N3
+486,財,"zai, sai, zokuザイ、 サイ、 ゾク",,"property, money, wealth, assets",N3
+487,,,,,
+488,港,kouコウ,minatoみなと,"harbor, port",N3
+489,識,shikiシキ,shi(ru)し(る),know,N3
+490,注,chuuチュウ,"soso(gu), sa(su), tsu(gu)そそ(ぐ)、 さ(す)、 つ(ぐ)","pour, irrigate, shed (tears), flow into, concentrate on",N4
+491,呼,koコ,yo(bu)よ(ぶ),"call, invite",N3
+492,達,"tatsu, daタツ、 ダ",-tachi-たち,"accomplished, reach, arrive, attain",N3
+493,良,ryouリョウ,"yo(i), i(i)よ(い)、い(い)",good,N3
+494,阪,hanハン,sakaさか,"heights, slope",N3
+495,帰,kiキ,"kae(ru), kae(su)かえ(る)、 かえ(す)","homecoming, arrive at, lead to, result in",N4
+496,針,shinシン,hariはり,needle; pin; staple; stinger,N2
+497,専,senセン,moppa(ra)もっぱ(ら),specialty; exclusive; mainly; solely,N2
+498,谷,kokuコク,"tani, kiwa(maru)たに、 きわ(まる)",valley,N2
+499,古,koコ,furu(i)ふる(い),old,N4
+501,史,shiシ,,history; chronicle,N2
+502,天,tenテン,amatsuあまつ,"heavens, sky, imperial",N5
+503,階,kaiカイ,kizahashiきざはし,stair; counter for building story,N2
+504,程,teiテイ,hodoほど,"extent, degree",N3
+505,,,,,
+506,満,manマン,mi(chiru)み(ちる),"full, fullness, enough, satisfy",N3
+507,敗,haiハイ,yabu(reru)やぶ(れる),"failure, defeat",N3
+508,管,kanカン,kudaくだ,pipe; tube; wind instrument; control; jurisdiction,N2
+509,値,chiチ,"ne, ataiね、 あたい","price, cost, value",N3
+510,歌,kaカ,"uta, uta(u)うた、 うた(う)","song, sing",N4
+511,買,baiバイ,ka(u)か(う),buy,N4
+512,突,"totsu, kaトツ、カ",tsu(ku)つ(く),"stab, protruding, thrust",N3
+513,兵,"hei, hyouヘイ、 ヒョウ",tsuwamonoつわもの,soldier; private; troops; army,N2
+514,接,setsuセツ,tsu(gu)つ(ぐ),touch; contact; adjoin; piece together,N2
+515,光,kouコウ,"hika(ru), hikariひか(る)、ひかり","ray, light",N3
+516,路,"ro, ruロ、ル",michiみち,"path, route, road",N3
+517,悪,akuアク,waru(i)わる(い),"bad, evil, wrong",N4
+518,科,kaカ,,"department, course, section",N3
+519,,,,,
+520,細,saiサイ,"hoso(i), koma(kai)ほそ(い)、 こま(かい)",slender; narrow; detailed; precise,N2
+521,効,kouコウ,ki(ku)き(く),merit; efficacy; efficiency; benefit,N2
+522,図,"zu, toズ、 ト",haka(ru)はか(る),"map, drawing, plan, extraordinary",N4
+523,週,shuuシュウ,,week,N4
+524,積,sekiセキ,tsu(mu)つ(む),"volume, contents, pile up, stack",N3
+525,丸,ganガン,"maru, maru(i)まる、まる(い)",round; full (month); perfection,N2
+526,他,taタ,hokaほか,"other, another",N3
+527,湾,wanワン,irieいりえ,gulf; bay; inlet,N2
+528,録,rokuロク,to(ru)と(る),record,N2
+529,処,shoショ,,"dispose, manage, deal with",N3
+530,省,"sei, shouセイ、 ショウ","kaeri(miru), habu(ku)かえり(みる)、 はぶ(く)",focus; government ministry; conserve,N2
+531,旧,kyuuキュウ,"furu(i), motoふる(い)、 もと",old times; old things; former; ex-,N2
+532,室,shitsuシツ,muroむろ,"room, apartment, chamber, greenhouse, cellar",N4
+533,太,"tai, taタイ、タ",futo(i)ふと(い),"plump, thick, big around",N3
+534,橋,kyouキョウ,hashiはし,bridge,N2
+535,歩,"ho, buホ、 ブ","aru(ku), ayu(mu)ある(く)、 あゆ(む)","walk, counter for steps",N4
+536,岸,ganガン,kishiきし,beach,N2
+537,客,"kyaku, kakuキャク、カク",,"guest, visitor, customer",N3
+538,風,"fuu, fuフウ、 フ","kaze, kaza-かぜ、 かざ-","wind, air, style, manner",N4
+539,紙,shiシ,kamiかみ,paper,N4
+540,激,gekiゲキ,hage(shii)はげ(しい),"violent, get excited, enraged, chafe, incite",N1
+541,否,hiヒ,"ina, iyaいな、いや","negate, no, decline",N3
+542,周,shuuシュウ,mawa(ri)まわ(り),circumference; circuit; lap,N2
+543,師,shiシ,,"expert, teacher, master",N3
+544,材,zaiザイ,,"lumber, log, timber, wood",N2
+545,登,"tou, toトウ、ト","nobo(ru), a(garu)のぼ(る)、あ(がる)","ascend, climb up",N3
+546,母,boボ,"haha, kaaはは、 かあ",mother,N5
+547,易,"eki, iエキ、 イ","yasa(shii), yasu(i)やさ(しい)、 やす(い)","easy, ready to, simple",N3
+548,黒,kokuコク,kuroくろ,black,N4
+549,火,kaカ,"hi, bi, hoひ、 -び、 ほ-",fire,N5
+550,,,,,
+551,戸,koコ,toと,door; counter for houses,N2
+552,速,sokuソク,haya(i)はや(い),"quick, fast",N3
+553,存,"son, zonソン、ゾン",,"exist, be aware of",N3
+554,花,"ka, keカ、 ケ",hanaはな,flower,N4
+555,春,shunシュン,haruはる,spring,N4
+556,飛,hiヒ,to(bu)と(ぶ),fly,N3
+557,殺,"satsu, saiサツ、サイ",koro(su)ころ(す),"kill, murder",N3
+558,央,ouオウ,,center; middle,N2
+559,券,kenケン,,ticket,N2
+560,,,,,
+561,赤,"seki, shakuセキ、 シャク",aka(i)あか(い),red,N4
+562,号,gouゴウ,,"number, item",N3
+563,単,tanタン,hitoeひとえ,"simple, single",N3
+564,座,zaザ,suwa(ru)すわ(る),"squat, seat, sit",N3
+565,青,"sei, shouセイ、 ショウ",ao(i)あお(い),blue,N4
+566,破,haハ,yabu(ru)やぶ(る),"rip, tear, break",N3
+567,編,henヘン,a(mu)あ(む),compilation; knit; braid; twist; editing,N2
+568,捜,souソウ,saga(su)さが(す),search; look for; locate,N2
+569,竹,chikuチク,takeたけ,bamboo,N2
+570,除,"jo, jiジョ、ジ",nozo(ku)のぞ(く),"exclude, remove",N3
+571,完,kanカン,,"perfect, completion",N3
+572,降,"kou, goコウ、 ゴ","o(riru), fu(ru)お(りる)、 ふ(る)","descend, precipitate, fall, surrender",N3
+573,超,chouチョウ,ko(eru)こ(える),transcend; super-; ultra-,N2
+574,責,sekiセキ,se(meru)せ(める),"blame, condemn",N3
+575,並,heiヘイ,"na(mi), nami, nara(beru)な(み)、なみ、なら(べる)","row, and, besides",N2
+576,療,ryouリョウ,,heal; cure,N2
+577,右,"u, yuuウ、 ユウ",migiみぎ,right,N5
+578,捕,hoホ,"to(raeru), tsuka(maeru)と(らえる)、つか(まえる)","catch, capture",N3
+579,危,kiキ,"abu(nai), aya(ui)あぶ(ない)、あや(うい)","dangerous, fear, uneasy",N3
+580,採,saiサイ,to(ru)と(る),pick; take; fetch; take up,N2
+581,森,shinシン,moriもり,"forest, woods",N2
+582,,,,,
+583,競,"kyou, keiキョウ、 ケイ","kiso(u), se(ru)きそ(う)、 せ(る)",compete with; bid; contest; race,N2
+584,館,kanカン,yakataやかた,"building, mansion, large building, palace",N4
+585,給,kyuuキュウ,"tama(u), tamo(u)たま(う)、たも(う)","salary, wage, gift",N3
+586,屋,okuオク,yaや,"roof, house, shop, dealer, seller",N4
+587,介,kaiカイ,,jammed in; shellfish; mediate,N2
+588,読,"doku, toku, touドク、 トク、 トウ",yo(mu)よ(む),to read,N5
+589,根,konコン,neね,root; radical,N2
+590,色,"shoku, shikiショク、 シキ",iroいろ,color,N4
+591,友,yuuユウ,tomoとも,friend,N5
+592,苦,kuク,"kuru(shii), niga(i)くる(しい)、にが(い)","suffering, bitter",N3
+593,迎,geiゲイ,muka(eru)むか(える),"welcome, meet, greet",N3
+594,走,souソウ,hashi(ru)はし(る),run,N4
+595,販,hanハン,,"marketing, sell, trade",N2
+596,園,enエン,sonoその,"park, garden, yard",N3
+597,具,guグ,"sona(eru), tsubasa(ni)そな(える)、つぶさ(に)","tool, utensil",N3
+598,左,"sa, shaサ、 シャ",hidariひだり,left,N5
+599,歴,rekiレキ,,curriculum; continuation; passage of time,N2
+600,辞,jiジ,ya(meru)や(める),"resign, word, term",N3
+601,将,shouショウ,"masa(ni), hataまさ(に)、 はた",leader; commander; general; admiral,N2
+602,秋,shuuシュウ,akiあき,"autumn, fall",N4
+603,因,inイン,"yo(ru), china(mu)よ(る)、ちな(む)","cause, factor, depend on",N3
+604,馬,baバ,umaうま,horse,N3
+605,愛,aiアイ,"ito(shii), manaいと(しい)、まな","love, affection",N3
+606,幅,fukuフク,habaはば,hanging scroll; width,N2
+607,休,kyuuキュウ,yasu(mu)やす(む),"rest, day off, retire, sleep",N5
+608,富,"fu, fuuフ、フウ","to(mu), tomiと(む)、 とみ","wealth, enrich, abundant",N3
+609,父,fuフ,"chichi, touちち、 とう",father,N5
+610,,,,,
+611,彼,hiヒ,"kare, kanoかれ、 かの","he, him",N3
+612,般,hanハン,,carrier; carry; all; general; sort; kind,N2
+613,未,"mi, biミ、ビ","ima(da), ma(da)いま(だ)、ま(だ)","un-, not yet",N3
+614,,,,,
+615,貿,bouボウ,,trade; exchange,N2
+616,講,kouコウ,,lecture; club; association,N2
+617,舞,buブ,"ma(u), maiま(う)、まい","dance, circle",N3
+618,林,rinリン,hayashiはやし,grove; forest,N2
+619,装,"sou, shouソウ、 ショウ",yosoo(u)よそお(う),attire; dress; pretend; disguise,N2
+620,諸,shoショ,moroもろ,various; many; several; together,N2
+621,夏,"ka, geカ、 ゲ",natsuなつ,summer,N4
+622,亡,"bou, mouボウ、モウ",na(kunaru)な(くなる),"deceased, dying",N3
+623,劇,gekiゲキ,,drama; play,N2
+624,河,kaカ,kawaかわ,river,N2
+625,航,kouコウ,,navigate; sail; cruise; fly,N2
+626,冷,reiレイ,"tsume(tai), hi(eru), sa(meru)つめ(たい)、ひ(える)、さ(める)","cool, cold, chill",N3
+627,適,tekiテキ,kana(u)かな(う),"suitable, occasional, rare",N3
+628,婦,fuフ,yomeよめ,"lady, woman, wife",N3
+629,鉄,tetsuテツ,kuroganeくろがね,iron,N2
+630,寄,kiキ,yo(ru)よ(る),"draw near, gather",N3
+631,益,"eki, yakuエキ、ヤク",ma(su)ま(す),"benefit, gain, profit, advantage",N1
+632,込,,ko(mu)こ(む),"crowded, mixture",N3
+633,顔,ganガン,kaoかお,"face, expression",N3
+634,類,ruiルイ,tagu(i)たぐ(い),"sort, kind, variety, class, genus",N3
+635,児,jiジ,koこ,newborn babe; child,N2
+636,余,yoヨ,ama(ru)あま(る),"too much, surplus",N3
+637,禁,kinキン,,prohibition; ban; forbid,N2
+638,印,inイン,shirushiしるし,stamp; seal; mark; symbol; trademark,N2
+639,逆,gyakuギャク,saka(rau)さか(らう),inverted; reverse; opposite,N2
+640,王,ouオウ,,"king, rule",N3
+641,久,"kyuu, kuキュウ、 ク",hisa(shii)ひさ(しい),long time; old story,N2
+642,短,tanタン,mijika(i)みじか(い),short; fault; defect; weak point,N2
+643,,,,,
+644,油,yuユ,aburaあぶら,oil; fat,N2
+645,妻,saiサイ,tsumaつま,"wife, spouse",N3
+646,暴,"bou, bakuボウ、 バク",aba(ku)あば(く),outburst; force; violence,N2
+647,輪,rinリン,waわ,wheel; ring; circle; link; loop; counter for wheels and flowers,N2
+648,占,senセン,"shi(meru), urana(u)し(める)、 うらな(う)",fortune-telling; divining; forecasting,N2
+649,背,haiハイ,"se, seiせ、せい","stature, height, back",N3
+650,植,shokuショク,u(eru)う(える),plant,N2
+651,熱,netsuネツ,atsu(i)あつ(い),"heat, fever, passion",N3
+652,宿,shukuシュク,yadoやど,"inn, lodging",N3
+653,薬,yakuヤク,kusuriくすり,"medicine, chemical",N3
+654,清,seiセイ,kiyo(i)きよ(い),pure; purify; cleanse,N2
+655,習,shuuシュウ,nara(u)なら(う),learn,N4
+656,険,kenケン,kewa(shii)けわ(しい),"precipitous, inaccessible place",N3
+657,頼,raiライ,"tano(mu), tayo(ru)たの(む)、 たよ(る)","trust, request",N3
+658,覚,kakuカク,"obo(eru), sa(masu)おぼ(える)、 さ(ます)","memorize, learn, remember, awake",N3
+659,船,senセン,"fune, funaふね、ふな","ship, boat",N3
+660,倍,baiバイ,,double; twice; times; fold,N2
+661,均,kinキン,nara(su)なら(す),level; average,N2
+662,億,okuオク,,hundred million; 10**8,N2
+663,途,toト,michiみち,"route, way, road",N3
+664,,,,,
+665,圧,atsuアツ,o(su)お(す),pressure; push; overwhelm; oppress,N2
+666,芸,geiゲイ,,technique; art; craft; performance; acting,N2
+667,許,kyoキョ,yuru(su)ゆる(す),"permit, approve",N3
+668,駅,ekiエキ,,station,N4
+670,抜,batsuバツ,nu(ku)ぬ(く),"slip out, extract, pull out, remove",N3
+671,便,"ben, binベン、 ビン",tayo(ri)たよ(り),"convenience, facility",N3
+672,伸,shinシン,no(biru)の(びる),expand; stretch; extend,N2
+673,留,"ryuu, ruリュウ、 ル","to(maru), todo(meru)と(まる)、 とど(める)","detain, fasten, halt, stop",N3
+674,罪,zaiザイ,tsumiつみ,"guilt, sin, crime",N3
+675,,,,,
+676,停,teiテイ,to(meru)と(める),halt; stopping,N2
+677,爆,bakuバク,ha(zeru)は(ぜる),bomb; burst open,N2
+678,陸,"riku, rokuリク、 ロク",okaおか,land; six,N2
+679,玉,gyokuギョク,tamaたま,jewel; ball,N2
+680,波,haハ,namiなみ,waves; billows,N2
+681,帯,taiタイ,o(biru)お(びる),sash; belt; obi; zone; region,N2
+682,延,enエン,no(biru)の(びる),prolong; stretching,N2
+683,羽,uウ,"ha, wa, haneは、 わ、 はね","feathers; counter for birds, rabbits",N2
+684,努,doド,tsuto(meru)つと(める),"toil, diligent, as much as possible",N3
+685,固,koコ,kata(meru)かた(める),harden; set; clot; curdle,N2
+686,精,"sei, shouセイ、ショウ",shira(geru)しら(げる),"refined, ghost, fairy, energy",N3
+687,則,sokuソク,notto(ru)のっと(る),rule; follow; based on,N2
+688,乱,ranラン,mida(reru)みだ(れる),riot; war; disorder; disturb,N2
+689,普,fuフ,amane(ku)あまね(く),universal; generally,N2
+690,散,sanサン,"chi(ru), bara(keru)ち(る)、ばら(ける)","scatter, disperse",N3
+691,測,sokuソク,haka(ru)はか(る),fathom; plan; scheme; measure,N2
+692,豊,"hou, buホウ、 ブ","yuta(ka), toyoゆた(か)、 とよ",bountiful; excellent; rich,N2
+693,洋,youヨウ,,"ocean, sea, foreign, Western style",N4
+694,静,"sei, jouセイ、ジョウ",shizu(ka)しず(か),quiet,N3
+695,婚,konコン,,marriage,N3
+696,厚,kouコウ,atsu(i)あつ(い),thick; heavy; rich,N2
+697,喜,kiキ,yoroko(bu)よろこ(ぶ),"rejoice, take pleasure in",N3
+698,齢,reiレイ,"yowai, toshiよわい、 とし",age,N2
+699,囲,iイ,kako(mu)かこ(む),surround; enclosure; preserve; keep,N2
+700,卒,sotsuソツ,so(ssuru)そっ(する),graduate; soldier; private; die,N2
+701,略,ryakuリャク,hoboほぼ,abbreviation; omission; outline; shorten,N2
+702,承,shouショウ,uketamawa(ru)うけたまわ(る),hear; listen to; be informed; receive,N2
+703,浮,fuフ,u(kabu)う(かぶ),"float, rise to surface",N3
+704,順,junジュン,,obey; order; turn; occasion,N2
+705,旅,ryoリョ,tabiたび,"trip, travel",N4
+706,,,,,
+707,絶,zetsuゼツ,ta(eru)た(える),"discontinue, unparalleled",N3
+708,幸,kouコウ,"saiwa(i), sara, shiawa(se)さいわ(い)、さち、 しあわ(せ)","happiness, blessing, fortune",N3
+709,岩,ganガン,iwaいわ,boulder; rock; cliff,N2
+710,練,renレン,ne(ru)ね(る),"practice, gloss, train, drill, polish, refine",N2
+711,押,ouオウ,o(su)お(す),push,N3
+712,軽,keiケイ,karu(i)かる(い),lightly; trifling; unimportant,N2
+713,倒,touトウ,tao(reru)たお(れる),"overthrow, fall, collapse",N3
+714,,,,,
+715,了,ryouリョウ,,complete; finish,N2
+716,庁,chouチョウ,yakushoやくしょ,government office,N2
+717,博,"haku, bakuハク、バク",,"Dr., command, esteem, Ph.D.",N1
+718,城,"jou, seiジョウ、 セイ",shiroしろ,castle,N2
+719,患,kanカン,wazura(u)わずら(う),afflicted; disease; suffer from; be ill,N2
+720,等,touトウ,"hito(shii), nadoひと(しい)、など","etc., and so forth",N3
+721,層,souソウ,,stratum; social class; layer; story; floor,N2
+722,版,hanハン,,printing block; edition; impression; label,N2
+723,老,rouロウ,"o(iru), fu(keru)お(いる)、ふ(ける)",old,N3
+724,令,reiレイ,,orders; command; decree,N2
+725,角,kakuカク,"kado, tsunoかど、 つの",angle; corner; square,N2
+726,絡,rakuラク,kara(mu)から(む),entwine; coil around; get caught in,N2
+727,損,sonソン,soko(nau)そこ(なう),damage; loss; disadvantage; hurt; injure,N2
+728,募,boボ,tsuno(ru)つの(る),recruit; campaign,N2
+729,曲,kyokuキョク,ma(garu)ま(がる),"bend, music, melody",N3
+730,裏,riリ,uraうら,back; reverse; inside; rear,N2
+731,払,,hara(u)はら(う),pay,N3
+732,庭,teiテイ,niwaにわ,"courtyard, garden, yard",N3
+733,徒,toト,"itazura, adaいたずら、 あだ","on foot, junior, vanity, futility, uselessness",N3
+734,仏,butsuブツ,hotokeほとけ,Buddha; the dead,N2
+735,績,sekiセキ,,exploits; achievements,N2
+736,築,chikuチク,kizu(ku)きず(く),fabricate; build; construct,N2
+737,貨,kaカ,,freight; goods; property,N2
+738,,,,,
+739,混,konコン,ma(jiru)ま(じる),mix; blend; confuse,N2
+740,昇,shouショウ,nobo(ru)のぼ(る),rise up,N2
+741,池,chiチ,ikeいけ,pond; pool; reservoir,N2
+742,勤,"kin, gonキン、ゴン",tsuto(meru)つと(める),"diligence, employed, serve",N3
+743,血,ketsuケツ,chiち,blood,N2
+744,遅,chiチ,"oku(reru), oso(i)おく(れる)、 おそ(い)","slow, late, back, later",N3
+745,居,"kyo, koキョ、コ","i(ru), o(ru)い(る)、お(る)","reside, to be, exist",N3
+746,温,onオン,"atata(kai), nukuあたた(かい)、ぬく",warm,N2
+747,雑,"zatsu, zouザツ、ゾウ",maji(ru)まじ(る),miscellaneous,N3
+748,招,shouショウ,mane(ku)まね(く),"invite, summon, engage",N3
+750,困,konコン,koma(ru)こま(る),"quandary, become distressed",N3
+751,星,seiセイ,hoshiほし,star,N2
+752,永,eiエイ,naga(i)なが(い),eternity; long; lengthy,N2
+753,著,"cho, chakuチョ、 チャク","arawa(su), ichijiru(shii)あらわ(す)、 いちじる(しい)",renowned; publish; write,N2
+754,誌,shiシ,,document; records,N2
+755,庫,"ko, kuコ、 ク",kuraくら,warehouse; storehouse,N2
+756,刊,kanカン,,publish; carve; engrave,N2
+757,像,zouゾウ,,statue; picture; image; figure,N2
+758,香,"kou, kyouコウ、 キョウ",kao(ri)かお(り),incense; smell; perfume,N2
+759,欠,"ketsu, kenケツ、ケン",ka(keru)か(ける),"lack, gap",N3
+760,更,kouコウ,"sara(ni), fu(keru)さら(に)、ふ(ける)","renew, renovate, again",N3
+761,坂,hanハン,sakaさか,slope; incline; hill,N2
+762,刻,kokuコク,kiza(mu)きざ(む),"engrave, cut fine, chop",N3
+763,底,teiテイ,sokoそこ,bottom; sole; depth; bottom price,N2
+764,賛,sanサン,,"approve, praise",N3
+765,抱,houホウ,"da(ku), ida(ku), kaka(eru)だ(く)、いだ(く)、かか(える)","embrace, hug",N3
+766,服,fukuフク,,"clothing, admit, obey",N4
+767,犯,hanハン,oka(su)おか(す),"crime, sin, offense",N3
+768,布,fuフ,"nuno, shi(ku)ぬの、 し(く)",linen; cloth; spread; distribute,N2
+769,,,,,
+770,,,,,
+771,恐,kyouキョウ,"oso(reru), kowa(i)おそ(れる)、こわ(い)","fear, dread",N3
+772,寺,jiジ,teraてら,Buddhist temple,N2
+773,息,"musu, sokuムス、ソク",ikiいき,"breath, son, interest (on money)",N3
+774,宇,uウ,,eaves; roof; house; heaven,N2
+775,遠,"en, onエン",too(i)とお(い),"distant, far",N3
+776,戻,reiレイ,modo(ru)もど(る),"re-, return, revert",N3
+777,巨,kyoキョ,,gigantic; big; large; great,N2
+778,震,shinシン,furu(u)ふる(う),quake; shake; tremble; quiver,N2
+779,願,ganガン,nega(u)ねが(う),"petition, request, wish",N3
+780,絵,"kai, eカイ、エ",,"picture, drawing",N3
+781,希,kiキ,"mare, koinega(u)まれ、 こいねが(う)",hope; beg; request; pray,N2
+782,越,etsuエツ,ko(su)こ(す),"surpass, cross over, move to, exceed",N3
+783,欲,yokuヨク,ho(shii)ほ(しい),"longing, greed, passion",N3
+784,痛,tsuuツウ,ita(i)いた(い),"pain, hurt, damage, bruise",N3
+785,触,shokuショク,"fu(reru), sawa(ru)ふ(れる)、 さわ(る)",contact; touch; feel; hit; proclaim; announce,N2
+786,籍,sekiセキ,,enroll; register; membership,N2
+787,汚,oオ,"yogo(su), kitana(i), kega(su)よご(す)、 きたな(い)、 けが(す)",dirty; pollute; disgrace; defile,N2
+788,枚,"mai, baiマイ、 バイ",,sheet of...; counter for flat thin objects,N2
+789,笑,shouショウ,"wara(u), e(mu)わら(う)、え(む)",laugh,N3
+790,互,goゴ,"taga(i), katami(ni)たが(い)、かたみ(に)","mutually, reciprocally, together",N3
+791,複,fukuフク,,duplicate; double; compound; multiple,N2
+792,郵,yuuユウ,,mail; stagecoach stop,N2
+793,束,sokuソク,"taba, tsukaたば、つか","bundle, manage",N3
+794,仲,chuuチュウ,nakaなか,go-between; relationship,N2
+795,栄,eiエイ,saka(eru)さか(える),flourish; prosperity; honor,N2
+796,札,satsuサツ,fudaふだ,ticket; paper money; banknote; note,N2
+797,似,"ji, neジ、ね",ni(ru)に(る),"becoming, resemble, imitate",N3
+798,夕,(none),yuuゆう,evening,N4
+799,板,"han, banハン、 バン",itaいた,plank; board; plate; stage,N2
+800,,,,,
+801,列,"retsu, reレツ、レ",,"file, row, column",N3
+802,探,tanタン,"sagu(ru), saga(su)さぐ(る)、さが(す)","search, look for",N3
+803,逃,touトウ,"ni(geru), noga(su)に(げる)、のが(す)","escape, flee",N3
+804,借,shakuシャク,ka(riru)か(りる),"borrow, rent",N4
+805,骨,kotsuコツ,honeほね,skeleton; bone; remains; frame,N2
+806,傾,keiケイ,katamu(ku)かたむ(く),lean; incline; tilt; trend; bias,N2
+807,届,kaiカイ,todo(keru)とど(ける),deliver; reach; arrive; report,N2
+808,曜,youヨウ,,weekday,N4
+809,遊,yuuユウ,aso(bu)あそ(ぶ),play,N3
+810,迷,meiメイ,mayo(u)まよ(う),"astray, be perplexed, in doubt, lost",N3
+811,夢,muム,yumeゆめ,"dream, vision",N3
+812,巻,kanカン,"ma(ku), makiま(く)、 まき",scroll; volume; book; part; roll up; wind up; coil; counter for texts (or book scrolls),N2
+813,購,kouコウ,,"subscription, buy",N1
+814,君,kunクン,kimiきみ,"you, male name suffix",N3
+815,燃,nenネン,mo(eru)も(える),burn; blaze; glow,N2
+816,雨,uウ,"ame, amaあめ、 あま",rain,N5
+817,閉,heiヘイ,"to(jiru), shi(meru)と(じる)、し(める)","closed, shut",N3
+818,,,,,
+819,緒,shoショ,oお,"beginning, end, cord, strap",N3
+820,跡,sekiセキ,atoあと,tracks; mark; print; impression,N2
+821,包,houホウ,"tsutsu(mu), kuru(mu)つつ(む)、 くる(む)",wrap; pack up; cover; conceal,N2
+822,駐,chuuチュウ,,stop-over; reside in; resident,N2
+823,弱,jakuジャク,yowa(i)よわ(い),weak; frail,N2
+824,折,"setsu, shakuセツ、シャク","o(ru), oriお(る)、おり","fold, break, fracture",N3
+825,紹,shouショウ,,introduce; inherit; help,N2
+826,草,souソウ,kusaくさ,"grass, weeds, herbs",N3
+827,飲,inイン,no(mu)の(む),drink,N4
+828,雇,koコ,yato(u)やと(う),employ; hire,N2
+829,暮,boボ,ku(rasu)く(らす),"evening, livelihood",N3
+830,替,taiタイ,ka(waru)か(わる),"exchange, spare, substitute",N2
+831,預,yoヨ,azu(keru)あず(ける),deposit; custody; leave with; entrust to,N2
+832,,,,,
+833,焼,shouショウ,ya(ku)や(く),bake; burning,N2
+834,簡,kanカン,era(bu)えら(ぶ),simplicity; brevity,N2
+835,肉,nikuニク,,meat,N4
+836,章,shouショウ,,badge; chapter; composition; poem,N2
+837,臓,zouゾウ,harawataはらわた,entrails; viscera; bowels,N2
+838,律,"ritsu, richiリツ、 リチ",,rhythm; law; regulation; control,N2
+839,貸,taiタイ,"ka(su), kashiか(す)、 かし",lend,N4
+840,贈,zouゾウ,oku(ru)おく(る),presents; send; give to; award to,N2
+841,照,shouショウ,te(ru)て(る),illuminate; shine; compare,N2
+842,酒,shuシュ,"sake, saka-さけ、さか-","sake, alcohol",N3
+843,薄,hakuハク,usu(i)うす(い),dilute; thin; weak (tea),N2
+844,堂,douドウ,,"public chamber, hall",N4
+845,群,gunグン,"mu(reru), mura(garu)む(れる)、 むら(がる)",flock; group; crowd; herd,N2
+846,悲,hiヒ,kana(shii)かな(しい),"grieve, sad",N3
+847,秒,byouビョウ,,second,N2
+848,奥,ouオウ,okuおく,heart; interior,N2
+849,詰,kitsuキツ,tsu(meru)つ(める),packed; close; rebuke; blame,N2
+850,晴,seiセイ,ha(reru)は(れる),clear up,N3
+851,掛,keiケイ,ka(keru)か(ける),"hang, suspend",N3
+852,双,souソウ,futaふた,pair; set; comparison; counter for pairs,N2
+853,刺,shiシ,"sa(su), togeさ(す)、 さし、 とげ","thorn, pierce, stab, prick, sting",N2
+854,到,touトウ,ita(ru)いた(る),"arrival, proceed, reach",N3
+855,寝,shinシン,ne(ru)ね(る),"lie down, sleep, rest",N3
+856,暗,anアン,kura(i)くら(い),"darkness, disappear, shade, informal",N3
+857,鳥,chouチョウ,toriとり,"bird, chicken",N4
+858,純,junジュン,,genuine; purity; innocence,N2
+859,飯,hanハン,meshiめし,"meal, rice",N4
+860,盗,touトウ,nusu(mu)ぬす(む),"steal, rob",N3
+861,吸,kyuuキュウ,su(u)す(う),"suck, inhale",N3
+862,勉,benベン,tsuto(meru)つと(める),"exertion, endeavor, effort",N4
+863,,,,,
+864,翌,yokuヨク,,the following; next,N2
+865,陽,youヨウ,hiひ,"sunshine, positive",N3
+866,快,kaiカイ,kokoroyo(i)こころよ(い),cheerful; pleasant; agreeable; comfortable,N2
+867,片,henヘン,kataかた,one-sided; piece,N2
+868,敬,keiケイ,uyama(u)うやま(う),awe; respect; honor; revere,N2
+869,悩,nouノウ,naya(mu)なや(む),trouble; worry; in pain; distress; illness,N2
+870,泉,senセン,izumiいずみ,spring; fountain,N2
+871,御,"gyo, goギョ、ゴ","on, oおん、お",honorable,N3
+872,冬,touトウ,fuyuふゆ,winter,N4
+873,,,,,
+874,皮,hiヒ,kawaかわ,skin; hide; leather,N2
+875,漁,"gyo, ryouギョ、 リョウ",asa(ru)あさ(る),fishing; fishery,N2
+876,荒,kouコウ,"ara(i), a(reru)あら(い)、あ(れる)",rough; wild,N2
+877,貯,choチョ,ta(meru)た(める),savings; store,N2
+878,硬,kouコウ,kata(i)かた(い),stiff; hard,N2
+879,歯,shiシ,haは,"tooth, cog",N3
+880,埋,maiマイ,u(meru)う(める),bury; be filled up; embedded,N2
+881,昼,chuuチュウ,hiruひる,"daytime, noon",N4
+882,茶,"cha, saチャ、 サ",,tea,N4
+883,柱,chuuチュウ,hashiraはしら,pillar; post; cylinder; support,N2
+884,祭,saiサイ,matsuriまつり,ritual; offer prayers; celebrate,N2
+885,袋,taiタイ,fukuroふくろ,sack; bag; pouch,N2
+886,忘,bouボウ,wasu(reru)わす(れる),forget,N3
+887,雪,setsuセツ,yukiゆき,snow,N3
+888,筆,hitsuヒツ,fudeふで,writing brush; writing; painting brush; handwriting,N2
+889,吹,suiスイ,fu(ku)ふ(く),"blow, breathe, puff",N3
+890,訓,kunクン,"yo(mu), kun(zuru)よ(む)、くん(ずる)","instruction, explanation, read",N2
+891,浴,yokuヨク,a(biru)あ(びる),bathe; be favored with; bask in,N2
+892,童,douドウ,warabeわらべ,juvenile; child,N2
+893,宝,houホウ,takaraたから,treasure; wealth; valuables,N2
+894,封,"fuu, houフウ、 ホウ",,seal; closing,N2
+895,,,,,
+897,娘,jouジョウ,"musume, koむすめ、こ","daughter, girl",N3
+898,砂,"sa, shaサ、 シャ",sunaすな,sand,N2
+899,塩,enエン,shioしお,salt,N2
+900,誤,goゴ,ayama(ru)あやま(る),mistake,N3
+901,賢,kenケン,kashiko(i)かしこ(い),intelligent; wise; wisdom; cleverness,N2
+902,弟,"tei, dai, deテイ、 ダイ、 デ",otoutoおとうと,younger brother,N4
+903,腕,wanワン,udeうで,arm; ability; talent,N2
+904,洗,senセン,ara(u)あら(う),wash,N3
+905,兆,chouチョウ,kiza(su)きざ(す),trillion; sign; omen; symptoms,N2
+906,床,shouショウ,"toko, yukaとこ、 ゆか",bed; counter for beds; floor; padding; tatami,N2
+907,慣,kanカン,na(reru)な(れる),"accustomed, get used to",N3
+908,毛,mouモウ,keけ,fur; hair; feather,N2
+909,緑,"ryoku, rokuリョク、 ロク",midoriみどり,green,N2
+910,尊,sonソン,touto(i)とうと(い),revered; valuable; precious; noble,N2
+911,祝,shukuシュク,iwa(u)いわ(う),celebrate; congratulate,N2
+912,礼,"rei, raiレイ、ライ",,"salute, bow, ceremony, thanks",N3
+913,窓,souソウ,madoまど,"window, pane",N3
+914,柔,"juu, nyuuジュウ、 ニュウ",yawa(rakai)やわ(らかい),tender; weakness; gentleness; softness,N2
+915,昔,"seki, shakuセキ、シャク",mukashiむかし,"once upon a time, old times",N3
+916,殿,denデン,"tono, donoとの、 どの",Mr.; hall; mansion; palace; temple; lord,N2
+917,濃,nouノウ,ko(i)こ(い),concentrated; thick; dark; undiluted,N2
+918,牛,gyuuギュウ,ushiうし,cow,N4
+919,魚,gyoギョ,"uo, sakanaうお、 さかな",fish,N4
+920,液,ekiエキ,,fluid; liquid; juice; sap; secretion,N2
+921,貧,"hin, binヒン、ビン",mazu(shii)まず(しい),"poverty, poor",N3
+922,衣,"i, eイ、 エ","koromo, kinuころも、 きぬ",garment; clothes; dressing,N2
+923,,,,,
+924,肩,kenケン,kataかた,shoulder,N2
+925,零,reiレイ,zeroぜろ,zero; spill; overflow; nothing,N2
+926,兄,"kyou, keiキョウ、 ケイ",aniあに,elder brother,N4
+927,,,,,
+928,怒,doド,"ika(ru), oko(ru)いか(る)、 おこ(る)","angry, be offended",N3
+929,泳,eiエイ,oyo(gu)およ(ぐ),swim,N3
+930,祖,soソ,,"ancestor, pioneer, founder",N3
+931,幼,youヨウ,osana(i)おさな(い),infancy; childhood,N2
+932,荷,kaカ,niに,baggage; load; cargo; freight,N2
+933,泊,hakuハク,to(maru)と(まる),overnight stay,N2
+934,杯,haiハイ,sakazukiさかずき,"glass, cup",N3
+935,黄,"kou, ouコウ、 オウ",kiき,yellow,N2
+936,甘,kanカン,ama(i)あま(い),sweet; coax; pamper; sugary,N2
+937,臣,"shin, jinシン、 ジン",,retainer; subject,N2
+938,浅,senセン,asa(i)あさ(い),shallow; superficial; frivolous,N2
+939,掃,souソウ,ha(ku)は(く),sweep; brush,N2
+940,雲,unウン,kumoくも,cloud,N2
+941,掘,kutsuクツ,ho(ru)ほ(る),dig; delve; excavate,N2
+942,疲,hiヒ,tsuka(reru)つか(れる),"exhausted, tire",N3
+943,捨,shaシャ,su(teru)す(てる),discard; throw away; abandon,N2
+944,皆,kaiカイ,"mina, minnaみな、 みんな","all, everyone, everybody",N3
+945,軟,nanナン,yawa(rakai)やわ(らかい),soft,N2
+946,沈,"chin, jinチン、 ジン",shizu(mu)しず(む),sink; be submerged; subside; be depressed,N2
+947,鳴,meiメイ,"na(ku), na(ru)な(く)、な(る)","chirp, cry, bark",N3
+948,凍,touトウ,"koo(ru), kogo(eru)こお(る)、 こご(える)",frozen; refrigerate,N2
+949,腹,fukuフク,haraはら,"abdomen, belly, stomach",N3
+950,乳,nyuuニュウ,"chichi, chiちち、ち","milk, breasts",N2
+951,煙,enエン,"kemu(ru), kemuriけむ(る)、けむり",smoke,N3
+952,恋,renレン,koi(shii)こい(しい),romance; in love; yearn for; miss,N2
+953,紅,"kou, kuコウ、 ク","beni, kurenaiべに、 くれない",crimson; deep red,N2
+954,郊,kouコウ,,"outskirts, suburbs, rural area",N2
+955,腰,youヨウ,koshiこし,loins; hips; waist,N2
+956,炭,tanタン,sumiすみ,charcoal; coal,N2
+957,踊,youヨウ,odo(ru)おど(る),jump; dance; leap; skip,N2
+958,,,,,
+959,冊,satsuサツ,,counter for books; volume,N2
+960,眠,minミン,nemu(ru)ねむ(る),sleep,N3
+961,勇,yuuユウ,isa(mu)いさ(む),courage; cheer up; bravery; heroism,N2
+962,械,kaiカイ,,contraption; machine; instrument,N2
+963,憶,okuオク,,"recollection, think, remember",N1
+964,怖,fuフ,"kowa(i), o(jiru)こわ(い)、お(じる)","dreadful, fearful",N3
+965,犬,kenケン,inuいぬ,dog,N4
+966,菜,saiサイ,naな,vegetable; side dish; greens,N2
+967,耳,jiジ,mimiみみ,ear,N3
+968,珍,chinチン,mezura(shii)めずら(しい),rare; curious; strange,N2
+969,卵,ranラン,tamagoたまご,egg,N2
+970,湖,koコ,mizuumiみずうみ,lake,N2
+971,喫,kitsuキツ,no(mu)の(む),"consume, eat, drink, smoke, receive",N2
+972,干,kanカン,"ho(su), hi(ru)ほ(す)、 ひ(る)",dry; parch,N2
+973,頂,chouチョウ,itada(ku)いただ(く),"receive, top, summit, peak",N3
+974,虫,"chuu, kiチュウ、 キ",mushiむし,insect; bug,N2
+975,刷,satsuサツ,"su(ru), ha(ku)す(る)、 は(く)",printing; print; brush,N2
+976,湯,touトウ,yuゆ,hot water; bath; hot spring,N2
+977,箱,souソウ,hakoはこ,"box, chest",N3
+978,溶,youヨウ,to(keru)と(ける),melt; dissolve; thaw,N2
+979,鉱,kouコウ,araganeあらがね,mineral; ore,N2
+980,涙,ruiルイ,namidaなみだ,tears; sympathy,N2
+981,匹,hitsuヒツ,hikiひき,counter for small animals,N2
+982,孫,sonソン,magoまご,grandchild; descendants,N2
+983,鋭,eiエイ,surudo(i)するど(い),pointed; sharpness; edge; weapon; sharp; violent,N2
+984,枝,shiシ,edaえだ,bough; branch; twig; limb; counter for branches,N2
+985,塗,toト,"nu(ru), nu(ri)ぬ(る)、 ぬ(り)",paint; smear; coating,N2
